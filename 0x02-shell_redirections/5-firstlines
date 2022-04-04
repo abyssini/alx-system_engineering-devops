@@ -1,2 +1,2 @@
 #!/bin/bash
-head /etc/posswd
+head /etc/passwd
